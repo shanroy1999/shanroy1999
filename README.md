@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Shantanu Roy</h1>
-<h3>I am a final year student currently pursuing my Bachelors in Computer Science from SRM Institute of Science and Technology, Chennai. I aspire to be an entrepreneur and am passionate to build and design products for the betterment of the society. I want to contribute and give back to the society as much as possible and help make the world a better place.</h3>
+<h3>I am a final year undergrad student currently pursuing my Bachelors in Computer Science from SRM Institute of Science and Technology, Chennai. I aspire to be an entrepreneur and am passionate to build and design products for the betterment of the society. I want to contribute and give back to the society as much as possible and help make the world a better place.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanroy1999" alt="shanroy1999" /> </p>
 
