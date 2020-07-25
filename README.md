@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **improving my skills in Data Structures and Algorithms.**
 
-- 👯 I’m looking to collaborate on **industrial level projects related to Machine Learning, Deep Learning, Data Science, Artificial Intelligence, Computer Vision**
+- 👯 I’m looking to collaborate on **industrial level projects related to Machine Learning, Deep Learning, Data Science, Artificial Intelligence, Computer Vision.**
 
-- 💬 Ask me about **Latest Technologies, Entrepreneurship, Startups**
+- 💬 Ask me about **Latest Technologies, Entrepreneurship, Startups.**
 
 - 📫 How to reach me **shan.roy1999@gmail.com**
 
