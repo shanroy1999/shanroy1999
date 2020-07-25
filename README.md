@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **improving my skills in Data Structures and Algorithms.**
 
-- 👯 I’m looking to collaborate on **industrial level projects related to Machine Learning, Deep Learning, Data Science, Artificial Intelligence**
+- 👯 I’m looking to collaborate on **industrial level projects related to Machine Learning, Deep Learning, Data Science, Artificial Intelligence, Computer Vision**
 
 - 💬 Ask me about **Latest Technologies, Entrepreneurship, Startups**
 
