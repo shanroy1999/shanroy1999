@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Latest Technologies, Entrepreneurship, Startups.**
 
-- 📫 How to reach me **shan.roy1999@gmail.com**
+- 📫 How to reach me **shan.roy1999@gmail.com**(I haven't uploaded my Kaggle notebooks on github. So you may check it out on my kaggle profile given below)
 
 - ⚡ Fun fact **I am a big fan of Elon Musk and just like him, I aspire to bring a revolution in the world and make the world a better place.**
 
