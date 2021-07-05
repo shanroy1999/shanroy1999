@@ -1,11 +1,11 @@
 <h1>Hi 👋, I'm Shantanu Roy</h1>
-<h3>I am a final year undergrad student currently pursuing my Bachelors in Computer Science from SRM Institute of Science and Technology, Chennai. I aspire to be an entrepreneur and am passionate to build and design products for the betterment of the society. I want to contribute and give back to the society as much as possible and help make the world a better place.</h3>
+<h3>I am currently working as an Analyst(Consulting) at Deloitte USI(Offices of US), India. I aspire to be an entrepreneur and am passionate to build and design products for the betterment of the society. I want to contribute and give back to the society as much as possible and help make the world a better place.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanroy1999" alt="shanroy1999" /> </p>
 
-- 🔭 I’m currently working on **improving my skills in Data Structures and Algorithms.**
+- 🔭 I’m currently working on **learning about Cloud Computing.**
 
-- 👯 I’m looking to collaborate on **industrial level projects related to Machine Learning, Deep Learning, Data Science, Artificial Intelligence, Computer Vision, Game Development.**
+- 👯 I’m looking to collaborate on **industrial level projects related to Machine Learning, Deep Learning, Cloud Computing, Data Science, Artificial Intelligence, Computer Vision, Game Development.**
 
 - 💬 Ask me about **Latest Technologies, Entrepreneurship, Startups.**
 
