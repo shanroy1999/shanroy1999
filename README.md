@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Shantanu Roy</h1>
-<h3>I am currently working as an Analyst(Consulting) at Deloitte USI(Offices of US), India. I aspire to be an entrepreneur and am passionate to build and design products for the betterment of the society. I want to contribute and give back to the society as much as possible and help make the world a better place.</h3>
+<h3>I am currently working as an Analyst(Consulting) at Deloitte USI(Offices of US), India. I try to add as much value as possible to the society and contribute for the betterment of the world as a whole. I want to contribute and give back to the society as much as possible and help make the world a better place.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanroy1999" alt="shanroy1999" /> </p>
 
