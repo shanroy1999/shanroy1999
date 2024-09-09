@@ -1,25 +1,21 @@
 <h1>Hi 👋, I'm Shantanu Roy</h1>
-<h3>I am currently working as an Analyst(Consulting) at Deloitte USI(Offices of US), India. I try to add as much value as possible to the society and contribute for the betterment of the world as a whole. I want to contribute and give back to the society as much as possible and help make the world a better place.</h3>
+<h3> First-year Graduate student currently pursuing a Master’s in Information Management at the University of Illinois Urbana-Champaign, complemented by 3 years of robust professional experience in the technical domain. Demonstrates advanced proficiency in Python, Microsoft Azure, Data Analytics, SQL, C#, and Java with a proven ability to excel in collaborative team environments and deliver meaningful, impactful data-driven solutions. Aspires to leverage a comprehensive technical skill set and innovative mindset in dynamic roles centered on artificial intelligence, machine learning, data science, and research, contributing to cutting-edge advancements in each field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanroy1999" alt="shanroy1999" /> </p>
 
-- 🔭 I’m currently working on **learning about Cloud Computing.**
+- 🔭 I’m currently working on **Research Related to Artificial Intelligence**
 
-- 👯 I’m looking to collaborate on **industrial level projects related to Machine Learning, Deep Learning, Cloud Computing, Data Science, Artificial Intelligence, Computer Vision, Game Development.**
+- 👯 I’m looking to collaborate on **industrial level projects related to Machine Learning, Deep Learning, Cloud Computing, Data Science, Artificial Intelligence, Computer Vision**
 
-- 💬 Ask me about **Latest Technologies, Entrepreneurship, Startups.**
+- 💬 Discuss with me about **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision**
 
-- 📫 Reach me at **shan.roy1999@gmail.com**(I haven't uploaded my Kaggle notebooks on github. So you may check it out on my kaggle profile given below)
+- 📫 Reach me at **shan.roy1999@gmail.com** or **roy33@illinois.edu**
 
-- Porfolio Website - https://shanroy1999.github.io/portfolio-website/
+- ⚡ Fun fact: **I am a big fan of the futuristic vision of Elon Musk and just like him, I aspire to bring a revolution in the world with the help of technology.**
 
-- ⚡ Fun fact **I am a big fan of Elon Musk and just like him, I aspire to bring a revolution in the world and make the world a better place.**
-
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/></p>
+<p align="left"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/182px-Python-logo-notext.svg.png" alt="python" width="60" height="60"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/225px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/180px-Microsoft_Azure.svg.png" alt="azure" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/180px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/182px-Java_programming_language_logo.svg.png" alt="java" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/150px-MySQL_logo.svg.png" alt="mysql" width="60" height="60"/></p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/shantanu-r-a182339a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/shantanu-r-a182339a" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/shanroy99/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/shanroy99/" height="30" width="30" /></a>
 <a href="https://www.kaggle.com/codebreaker619" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/codebreaker619" height="30" width="30" /></a>
-<a href="https://www.facebook.com/shanroy1999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/shanroy1999" height="30" width="30" /></a>
-<a href="https://www.instagram.com/shan.roy1999/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/shan.roy1999/" height="30" width="30" /></a>
 </p>
