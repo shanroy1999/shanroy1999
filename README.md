@@ -2,8 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanroy1999" alt="shanroy1999" /> </p>
 
-- [image](https://github.com/user-attachments/assets/26a79484-5e79-414b-a9ef-1b2188f31d64)
-First-year Graduate student currently pursuing a Master’s in Information Management at the University of Illinois Urbana-Champaign
+- <img src="https://github.com/user-attachments/assets/26a79484-5e79-414b-a9ef-1b2188f31d64" /> First-year Graduate student currently pursuing a Master’s in Information Management at the University of Illinois Urbana-Champaign
 
 - 3 years of robust professional experience in the technical domain.
 
