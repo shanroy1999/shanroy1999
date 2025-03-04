@@ -1,7 +1,17 @@
 <h1>Hi 👋, I'm Shantanu Roy</h1>
-<p><b>First-year Graduate student currently pursuing a Master’s in Information Management at the University of Illinois Urbana-Champaign, complemented by 3 years of robust professional experience in the technical domain. Demonstrates advanced proficiency in Python, Microsoft Azure, Data Analytics, SQL, C#, and Java with a proven ability to excel in collaborative team environments and deliver meaningful, impactful data-driven solutions. Aspires to leverage a comprehensive technical skill set and innovative mindset in dynamic roles centered on artificial intelligence, machine learning, data science, and research, contributing to cutting-edge advancements in each field.</b></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanroy1999" alt="shanroy1999" /> </p>
+
+- [image](https://github.com/user-attachments/assets/26a79484-5e79-414b-a9ef-1b2188f31d64)
+First-year Graduate student currently pursuing a Master’s in Information Management at the University of Illinois Urbana-Champaign
+
+- 3 years of robust professional experience in the technical domain.
+
+- Advanced proficiency in Python, Microsoft Azure, Data Analytics, SQL, C#, and Java
+
+- excel in collaborative team environments and deliver meaningful, impactful data-driven solutions
+
+- Aspire to leverage a comprehensive technical skill set and innovative mindset in dynamic roles centered on artificial intelligence, machine learning, data science, and research, contributing to cutting-edge advancements in each field
 
 - 🔭 I’m currently working on **Research Related to Artificial Intelligence**
 
