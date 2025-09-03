@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanroy1999" alt="shanroy1999" /> </p>
 
-- 🎓 First-year Graduate student currently pursuing a Master’s in Information Management at the University of Illinois Urbana-Champaign
+- 🎓 Second-year Graduate student currently pursuing a Master’s in Information Management at the University of Illinois Urbana-Champaign
 
 - 👨‍💻 3 years of robust professional experience in the technical domain.
 
