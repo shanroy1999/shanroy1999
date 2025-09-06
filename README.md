@@ -2,11 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanroy1999" alt="shanroy1999" /> </p>
 
-- 🎓 Second-year Graduate student currently pursuing a Master’s in Information Management at the University of Illinois Urbana-Champaign
+- 🎓 Second-year Graduate student currently pursuing a Master’s in Information Management at the University of Illinois Urbana-Champaign.
+  
+- Interned at Amazon Web Services (AWS) as an SDE-Intern for 3 months.
+- Worked at Deloitte USI as an Analyst for a period of 3 years.
 
-- 👨‍💻 3 years of robust professional experience in the technical domain.
-
-- ✨ Advanced proficiency in Python, Microsoft Azure, Data Analytics, SQL, C#, and Java
+- ✨ Advanced proficiency in Python, AWS, Microsoft Azure, JAVA, Data Analytics, SQL, C#
 
 - 🤝 excel in collaborative team environments and deliver meaningful, impactful data-driven solutions
 
